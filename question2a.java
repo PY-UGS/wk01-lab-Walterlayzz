@@ -1,7 +1,0 @@
-public class question2a
-{
-    public static void main (String[] args)
-    {
-        System.out.println("Hello, I am Walter Lay!");
-    }
-}
